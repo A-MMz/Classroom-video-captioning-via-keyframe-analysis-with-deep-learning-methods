@@ -1,1 +1,2 @@
-# video-dense-captioning-using-keyframe-captioning-with-CLIP-and-abstractive-summarization
+# Classroom video captioning via keyframe analysis with deep
+learning methods
